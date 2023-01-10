@@ -7,7 +7,7 @@ export const Header = () => {
             <p className="header-links">
                 <a href="https://github.com/erk-riv" className="h-spacer">github</a>
                 <a href="https://www.linkedin.com/in/erick-riv/" className="h-spacer">linkedIn</a>
-                <a href="https://www.freecodecamp.org/" className="h-spacer">resume</a>
+                <a href="https://dl.dropboxusercontent.com/s/6tzxekz0sn48gm5/Resume%20Erick%20Rivera.pdf?dl=0" className="h-spacer">resume</a>
             </p>
         </div>
     )
